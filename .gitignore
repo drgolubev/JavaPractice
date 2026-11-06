@@ -1,0 +1,6 @@
+# Скомпилированные файлы и служебные папки IntelliJ — в Git их не кладём
+out/
+*.class
+.idea/workspace.xml
+.idea/shelf/
+.DS_Store
